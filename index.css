@@ -1,0 +1,88 @@
+html {
+  background-color: #6e7dab;
+}
+
+header {
+  background-color: #6e7dab;
+  text-align: center;
+  padding: 10px;
+}
+
+#descript {
+  font-size: 20px;
+  color: #32292f;
+}
+
+h1 {
+  font-size: 60px;
+  color: #32292f;
+}
+
+h2 {
+  font-size: 40px;
+  color: #334e58;
+  background-color: #d1e3dd;
+  margin-top: 10px;
+  text-align: left;
+}
+
+.article {
+  background-color: #d1e3dd;
+  border-style: solid;
+  color: #32292f;
+  margin: 20px;
+  border: 15px black;
+  padding: 10px 50px 30px 10px;
+  width: 300px;
+  height: 300px;
+  text-align: center;
+}
+
+.parahead {
+  color: #6b6d76;
+  text-align: left;
+}
+
+.price {
+  color: #33261d;
+}
+
+.saleprice {
+  color: #5762d5;
+}
+
+#scouch {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#pcouch {
+  font-size: 20px;
+  font-weight: normal;
+}
+
+#stable {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#ptable {
+  font-size: 20px;
+  font-weight: normal;
+}
+
+#schair {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+#pchair {
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.button {
+  background-color: #5762d5;
+  color: white;
+  cursor: pointer;
+}
